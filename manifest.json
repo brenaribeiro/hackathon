@@ -1,0 +1,18 @@
+{
+    "short_name": "aboutsmiles",
+    "name": "Smiles Beneficios",
+    "Start_url": ".",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "theme-color": "#ffffff",
+    "background_color": "#0000000",
+    "background-color": "#0000000",
+    "description": "Página de benefícios Smiles",
+    "Icons": {
+        
+            "src": "" ,   
+            "type": "image/png",
+            "sizes": "512x512"        
+        }
+    }
+
